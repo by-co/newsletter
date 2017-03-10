@@ -1,0 +1,64 @@
+.title-bold {
+    font: normal 600 40px "Montserrat";
+    color: #5A5A5A
+}
+.title-reg {
+    font: normal 200 40px "Montserrat";
+    color: #5A5A5A;
+}
+.title-sub {
+    font: 20px "Karla";
+    color: #979797;
+}
+.text-body {
+    color: #5A5A5A;
+    margin-top: 20px;
+    font: 16px "Karla";
+    line-height: 1.4em;
+    width: 400px; /* change me lol */
+}
+.text-bold {
+    font-weight: 600;
+}
+.text-feature-title {
+    font: normal 600 20px "Montserrat";
+    color: 5A5A5A;
+    text-align: center;
+    padding: 10px 20px;
+}
+.text-feature-body {
+    font: oblique 14px/1.5rem "Karla";
+    margin-bottom: 5px;
+    color: #5A5A5A;
+}
+.text-feature-link {
+    color: #94B1CC;
+    font: normal 600 16px/1.5rem "Karla" ;
+}
+.caption {
+    font: oblique 14px "Karla";
+    color: #9F9F9F;
+}
+.button {
+    background-color: #94B1CC; /* yay this color! */
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border-style: none;
+    border-radius: 40px;
+    font: 16px "Montserrat", sans-serif;
+    color: white;
+    text-transform: uppercase;
+    margin: 10px 0px;
+}
+.feature {
+    padding: 20px;
+    background-color: #F8F8F8;
+    width: 500px;
+}
+
+#retreat1 { /* yea u can totally change this too */
+    width: 80%;
+    max-width: 700px;
+    margin: 10px 0px;
+}
